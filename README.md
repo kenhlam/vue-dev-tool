@@ -1,5 +1,9 @@
 # my-vue-devtools
 
+转自：https://www.cnblogs.com/HouJiao/p/11899679.html  
+
+
+
 ### 代码介绍
 
 该代码为vue dev-tools主分支代码的部分代码  
@@ -14,8 +18,3 @@ vue devtools的github地址为：https://github.com/vuejs/vue-devtools/tree/mast
 
 2.将克隆后的文件夹添加到chrome浏览器的扩展程序中，就可以成功添加dev-tools调试工具。  
 
-### 打一波广告
-
-关于如何在chrome中添加vue的调试工具dev-tools，我有总结了一篇博客，地址为：https://www.cnblogs.com/HouJiao/p/11899679.html  
-
-若有任何问题，可以在文章下方评论联系我
